@@ -1,0 +1,53 @@
+# html lang
+language: 
+  - en
+  - pt-br
+
+# main menu navigation
+menu:
+  Home: index.html
+  Projects: projects  
+  Contribute: contribute
+  Contact: contact  
+
+social:
+  GitHub: https://github.com/jspare-projects
+  Twitter: https://twitter.com/jspare-framework
+  Facebook: https://www.facebook.com/jspare.framework
+  Linkedin: https://www.linkedin.com/company/jspare.org
+
+projects:
+  - key: framework
+    name: jspare-framework
+    description: framework teste
+    icon: magic
+  - key: 4vertx
+    name: jspare-4vertx
+    description: 4vertx teste
+    icon: magic
+  - key: jsdb
+    name: JSpare NoSQL Database
+    description: jsdb teste
+    icon: database
+
+# Google analytics
+google_analytics: UA-75202809-1
+
+# Miscelaneous
+favicon: /favicon.ico
+
+# stylesheets loaded in the <head>
+stylesheets:
+- /css/app.min.css
+- /css/custom.css
+
+# scripts loaded in the end of the body
+scripts:
+- /js/app.min.js
+- /js/custom.js
+
+# ignore visitor statistics on special server, for example on you local computer or debugging server
+isIgnoreSpecialHostVisitor: true
+ignoreHostList:
+  - localhost
+  - 127.0.0.1
