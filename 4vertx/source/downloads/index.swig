@@ -1,0 +1,50 @@
+---
+id: downloads
+title: Downloads
+nav_title: JSpare Projects
+nav_message: Loaded with awesome features and solutions for your applications.
+date: 2016-07-21 13:40:50
+projects:
+	- key: framework
+	  name: Framework
+	  description: The java web framework to increase productivity and achieve the most subtle and simple 
+	  icon: magic
+	- key: 4vertx
+	  name: 4Vertx
+	  description: Improve your Vertx experience with 4vertx
+	  icon: magic
+	- key: jsdb
+	  name: NoSQL Database
+	  description: JSDB, is a simple and minimalist NoSQL database.
+	  icon: database
+---
+
+<!-- Navigation -->
+<nav class="page-navigation full-topbar">
+	<ul class="nav">
+		<li><a href="#sec-projects">Projects</a></li>
+	</ul>
+</nav>
+<!-- END Navigation -->
+
+<section id="sec-projects">
+	<div class="container">
+
+		<h4>Projects</h4>
+		<p>Each project developed by jspare.org is independent and free, that is, we have languages, metodoligas and different architectures, since each project has its purpose and audience.</p>
+		<br>
+		<div class="row">
+
+		{% for project in projects  %}
+			<div class="col-md-6 col-sm-12 col-xs-12">
+				<div class="project">
+					<h5 class="project-title" >J<font color="#962B2B">S</font>pare {{ project.name }}</h5>
+					<p>{{ project.description }}</p>
+					<a class="btn btn-danger btn-lg" href="#" style="margin-right: 12px;">Learn more</a>
+				</div>
+			</div>
+		{% endfor  %}
+			
+		</div>
+	</div>
+</section>

@@ -1,0 +1,40 @@
+# html lang
+language: 
+  - en
+  - pt-br
+
+# main menu navigation
+menu:
+  Home: index.html
+  Projects: projects  
+  Contribute: contribute
+  Contact: contact  
+
+social:
+  GitHub: https://github.com/jspare-projects/jspare-4vertx
+  Twitter: https://twitter.com/jspare-framework
+  Facebook: https://www.facebook.com/jspare.framework
+  Linkedin: https://www.linkedin.com/company/jspare.org
+  stackOverflow: https://stackoverflow.com
+
+# Google analytics
+google_analytics: UA-75202809-1
+
+# Miscelaneous
+favicon: /favicon.ico
+
+# stylesheets loaded in the <head>
+stylesheets:
+- /css/app.min.css
+- /css/custom.css
+
+# scripts loaded in the end of the body
+scripts:
+- /js/app.min.js
+- /js/custom.js
+
+# ignore visitor statistics on special server, for example on you local computer or debugging server
+isIgnoreSpecialHostVisitor: true
+ignoreHostList:
+  - localhost
+  - 127.0.0.1

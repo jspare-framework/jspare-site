@@ -1,0 +1,10 @@
+  - key: 4vertx
+    name: 4Vertx
+    description: Improve your Vertx experience with 4vertx
+    icon: magic
+    link: http://4vertx.jspare.org
+  - key: jsdb
+    name: NoSQL Database
+    description: JSDB, is a simple and minimalist NoSQL database.
+    icon: database
+    link: http://jsdb.jspare.org
