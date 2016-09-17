@@ -45,13 +45,17 @@ dependencies {
                   <i>Default package</i>
                   <ul>
                     <li class="is-folder open">
-                      <span>router</span>
-                      <i>Package with routers</i>
+                      <span>routes</span>
+                      <i>Package with routes</i>
                       <ul>
+                        <li class="is-file">
+                          <span>CarRoute.java</span>
+                          <i>Sample route class</i>
+                        </li>
                       	<li class="is-file">
                       		<span>StartRoute.java</span>
                       		<i>Sample route class</i>
-                    	</li>
+                    	 </li>
                       </ul>
                     </li>
                     <li class="is-folder open">
@@ -118,7 +122,7 @@ public class Bootstrap extends Application {
 }
 </code>
 				</pre>
-		<h4>Routers, hello handlers!</h4>
+		<h4>Routes, and hello handlers!</h4>
 		<p>Write your Web applications with ease and simplicity, the 4Vert.x was designed to be simple, see the references for more details Framework.</p>
 		<pre class="line-numbers"><code class="language-java">
 import org.jspare.forvertx.web.handling.Handling;

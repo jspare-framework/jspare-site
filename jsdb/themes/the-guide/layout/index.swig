@@ -4,9 +4,9 @@
 <div class="header-image bg-img-fact">
   <div class="container">
     <h1 class="logo">
-      <strong class="title">J<font color="#962B2B">S</font>pare 4Vert.x</strong><strong class="subtitle">&nbsp;</strong>&nbsp;Simple, powerfull and intuitive.
+      <strong class="title">J<font color="#962B2B">S</font>pare NoSQL Database</strong><strong class="subtitle">&nbsp;</strong>&nbsp;Minimalist and functional
     </h1>
-    <h4>Improving your Vert.x experience</h4>
+    <h4>Please wait, we are working....</h4>
   </div>
 </div>
 {% endblock %}
@@ -23,11 +23,11 @@
       alt="Fork me on GitHub"
       data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"></a>
 
-    <p class="lead"> If you stay here, that is because you know about of the incredible thinks that the Vert.x can do. I have no doubt that it is amazing and extremely versatile for their tasks. But, what if I say that we can extract more! And we can! The <b>JSpare 4Vert.x</b> will improve your experience with your Vert.x applications. We persue conventions and we seek to make bright ideas of Vert.x are used and improved. Try it, I'm sure your team and you will not regret.</p>
+    <p class="lead"> The <b>JSpare 4Vert.x</b> will be improve your experience with your Vert.x applications. Vert.x is event driven and non blocking. This means your app can handle a lot of concurrency using a small number of kernel threads. Vert.x lets your app scale with minimal hardware.</p>
 
     <div class="col-md-8 col-sm-12 col-xs-6">
       <div class="features-content">
-        <h4>4Vert.x Features</h4>
+        <h4>JSDB Features</h4>
 
         <ul class="list-features">
           <li>Reactive and Scallable applications</li>
@@ -37,32 +37,25 @@
           <li>Work with intuitive conventions</li>
           <li>Have fun</li>
         </ul>
-
-        <h4>References</h4>
-
-        <ul class="list-features">
-          <li><a href="http://vertx.io">Access Vert.x official page</a></li>
-        </ul>
       </div>
     </div>
-
 
     <div class="col-md-4 col-sm-12 col-xs-12">
 
       <table class="project-table table table-bordered table-striped table-info">
         <thead>
           <tr>
-            <th class="text-center" colspan="2">JSpare 4Vert.x</th>
+            <th class="text-center" colspan="2">JSpare NoSQL Database</th>
           </tr>
         </thead>
         <tbody>
           <tr>
             <td>Stable Version:</td>
-            <td>1.0.0-RC1</td>
+            <td>1.0.0-SNAPSHOT</td>
           </tr>
           <tr>
             <td>Publication Date:</td>
-            <td>05-08-2016</td>
+            <td>05-11-2016</td>
           </tr>
           <tr>
             <td>Repository:</td>
@@ -84,7 +77,7 @@
         </thead>
         <tbody>
           <tr>
-            <td>1.0.0-RC1 <span class="label label-primary">CURRENT</span></td>
+            <td>1.0.0-SNAPSHOT <span class="label label-warning">SNAPSHOT</span></td>
             <td>
               <a href="{{ url_for('docs') }}">Docs</a> | <a href="https://bintray.com/jspare/maven/4vertx">Download</a>
             </td>
@@ -104,18 +97,6 @@
 
     </div>
 
-    <hr>
-
-    <ul class="link-list cols-1">
-      <li>
-        <h5>Also interest</h5>
-        
-        <a href="{{ url_for('get-started') }}">Get Started</a>
-        <a href="{{ url_for('docs') }}">Docs</a>
-        <a href="{{ url_for('downloads') }}">Downloads</a>
-        <a href="{{ url_for('contribute') }}">Contribute</a>
-      </li>
-    </ul>
 
   </div>
 </section>

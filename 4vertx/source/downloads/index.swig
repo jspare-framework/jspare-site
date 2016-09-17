@@ -1,50 +1,41 @@
 ---
 id: downloads
-title: Downloads
-nav_title: JSpare Projects
-nav_message: Loaded with awesome features and solutions for your applications.
+title: Downlaods
+nav_title: Downloads
+nav_message: Getting 4Vert.x
 date: 2016-07-21 13:40:50
-projects:
-	- key: framework
-	  name: Framework
-	  description: The java web framework to increase productivity and achieve the most subtle and simple 
-	  icon: magic
-	- key: 4vertx
-	  name: 4Vertx
-	  description: Improve your Vertx experience with 4vertx
-	  icon: magic
-	- key: jsdb
-	  name: NoSQL Database
-	  description: JSDB, is a simple and minimalist NoSQL database.
-	  icon: database
 ---
 
-<!-- Navigation -->
-<nav class="page-navigation full-topbar">
-	<ul class="nav">
-		<li><a href="#sec-projects">Projects</a></li>
-	</ul>
-</nav>
-<!-- END Navigation -->
 
-<section id="sec-projects">
+<section>
 	<div class="container">
+		<header class="section-header">
+			<h2>Downloads</h2>
+		</header>
+		
+		<h4 id="sec-gettingstarted-dep">Dependencies</h4>
+		<p>Follow the required dependencies for start with JSpare 4Vert.x</p>
+		<h5>Maven</h5>
+				<pre class="line-numbers"><code class="language-markup">
+&lt;dependency&gt;
+	&lt;groupId&gt;org.jspare&lt;/groupId&gt;
+	&lt;artifactId&gt;jspare-4vertx-web&lt;/artifactId&gt;
+	&lt;version&gt;1.0.0-RC1&lt;/version&gt;
+&lt;/dependency&gt;
+</code></pre>
 
-		<h4>Projects</h4>
-		<p>Each project developed by jspare.org is independent and free, that is, we have languages, metodoligas and different architectures, since each project has its purpose and audience.</p>
-		<br>
-		<div class="row">
+	<h5>Gradle</h5>
+					<pre class="line-numbers"><code class="language-markup">
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
 
-		{% for project in projects  %}
-			<div class="col-md-6 col-sm-12 col-xs-12">
-				<div class="project">
-					<h5 class="project-title" >J<font color="#962B2B">S</font>pare {{ project.name }}</h5>
-					<p>{{ project.description }}</p>
-					<a class="btn btn-danger btn-lg" href="#" style="margin-right: 12px;">Learn more</a>
-				</div>
-			</div>
-		{% endfor  %}
-			
-		</div>
-	</div>
+dependencies {
+    compile "org.jspare:jspare-4vertx-web:1.0.0-RC1"
+}
+	</code></pre>
+	
+	
+	</div><
+
+
 </section>

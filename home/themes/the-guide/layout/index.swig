@@ -32,7 +32,7 @@
     </header>
 
     <p class="text-cols-2 text-justify">
-      <p>We are a non-profit foundation and were created in order to provide the software community, tools and open source products, which which can assist and complement the work on a daily basis.</p> 
+      <p>We are a non-profit foundation and were created in order to provide the software community, tools and open source products, which can assist and complement the work on a daily basis.</p> 
       <p>Our mission, stand to what now exists but does not meet any needs, or meet, are not as simple as it could or should be. Our aim is to build and deliver better solutions to the community, with the help of the same, we want to increasingly innovate and transform the software market.</p>
       <p>We believe in a decentralized structure, we believe in meritocracy, each developer can contribute by creating and improving our tools, everyone is welcome and we believe that the only way you can build and establish our ideals.</p>
       <p>We invite you to join our family, the JSpare.org believes in the community! We were born free, we will always be free!</p>

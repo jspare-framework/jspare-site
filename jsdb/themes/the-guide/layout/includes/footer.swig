@@ -4,9 +4,6 @@
     <div class="col-md-5 col-sm-12 col-xs-12">
       <ul class="footer-links">
         <li><a href="{{ url_for('home') }}">{{ __('home') }}</a></li>
-        <li><a href="{{ url_for('docs') }}">{{ __('docs') }}</a></li>
-        <li><a href="{{ url_for('contribute') }}">{{ __('contribute') }}</a></li>
-        <li><a href="{{ url_for('license') }}">{{ __('License') }}</a></li>
       </ul>
     </div>
 
