@@ -60,7 +60,7 @@
       <div class="counter color-alt col-md-3 col-sm-6">
         <i class="fa fa-clock-o"></i>
         <p>
-          <span data-from="0" data-to="1200" data-speed="2200">0</span>+
+          <span data-from="0" data-to="12000" data-speed="2200">0</span>+
         </p>
         <h6>Coding</h6>
       </div>
@@ -124,13 +124,6 @@
           Paulo Lima (Project Lead)
         </h6>
       </li>
-
-      <li>
-        <p>I believe technology improves people's lives</p>
-        <h6>
-          Matheus Vessaro (Contributor)
-        </h6>
-      </li>
     </ul>
 
   </div>
@@ -141,7 +134,7 @@
     <h2 style="font-weight: 200">
       <strong> Did you like? </strong> Join us
     </h2>
-    <br> <br> <a class="btn btn-lg btn-round btn-success" href="{{ app.command('site/contribute') }}"> Learn more
+    <br> <br> <a class="btn btn-lg btn-round btn-success" href="/contribute"> Learn more
     </a>
   </div>
 </section>

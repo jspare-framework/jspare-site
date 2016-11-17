@@ -52,13 +52,13 @@ date: 2016-07-21 13:40:50
 			<span>Connect Us</span>
 			<h2>Contribute</h2>
 			<p>
-				Help us, fork in <a href="{{ theme.social.GitHub }}"><i class="fa fa-github"></i>GitHub.</a>.
+				Help us, fork in <a href="https://github.com/jspare-projects"> <i class="fa fa-github"></i> GitHub.</a>.
 			</p>
 		</header>
 
 		<div align="center">
 			<ul class="color-palette-circular">
-				<li class="bg-dark"><a href="{{ theme.social.GitHub }}"><i class="fa fa-github fa-5x"
+				<li class="bg-dark"><a href="https://github.com/jspare-projects"><i class="fa fa-github fa-5x"
 						style="vertical-align: middle;"></i></a></li>
 			</ul>
 		</div>

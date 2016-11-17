@@ -5,16 +5,21 @@ nav_title: JSpare Projects
 nav_message: Loaded with awesome features and solutions for your applications.
 date: 2016-07-21 13:40:50
 projects:
-	- key: 4vertx
-	  name: 4Vertx
-	  description: Improve your Vertx experience with 4vertx
-	  icon: magic
-	  link: http://4vertx.jspare.org
-	- key: jsdb
-	  name: NoSQL Database
-	  description: JSDB, is a simple and minimalist NoSQL database.
-	  icon: database
-	  link: http://jsdb.jspare.org
+  - key: core
+    name: Java Container
+    description: Write componentized and modern Java applications.
+    icon: coffee
+    link: http://coffee.jspare.org
+  - key: 4vertx
+    name: 4Vert.x
+    description: Improve your Vert.x experience with 4Vert.x
+    icon: magic
+    link: http://4vertx.jspare.org
+  - key: jsdb
+    name: NoSQL Database
+    description: JSDB, is a simple and minimalist NoSQL database.
+    icon: database
+    link: http://jsdb.jspare.org
 ---
 
 <!-- Navigation -->

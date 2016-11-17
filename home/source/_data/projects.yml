@@ -1,6 +1,11 @@
+  - key: core
+    name: Java Container
+    description: Write componentized and modern Java applications.
+    icon: coffee
+    link: http://coffee.jspare.org
   - key: 4vertx
-    name: 4Vertx
-    description: Improve your Vertx experience with 4vertx
+    name: 4Vert.x
+    description: Improve your Vert.x experience with 4Vert.x
     icon: magic
     link: http://4vertx.jspare.org
   - key: jsdb
