@@ -2,12 +2,12 @@
     name: Java Container
     description: Write componentized and modern Java applications.
     icon: coffee
-    link: http://coffee.jspare.org
-  - key: 4vertx
-    name: 4Vert.x
-    description: Improve your Vert.x experience with 4Vert.x
+    link: http://framework.jspare.org
+  - key: vertx
+    name: vertx
+    description: Improve your Vert.x experience with JSpare Vert.x
     icon: magic
-    link: http://4vertx.jspare.org
+    link: http://vertx.jspare.org
   - key: jsdb
     name: NoSQL Database
     description: JSDB, is a simple and minimalist NoSQL database.
