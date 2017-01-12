@@ -6,7 +6,7 @@
     <h1 class="logo">
       <strong class="title">J<font color="#962B2B">S</font>pare Framework</strong><strong class="subtitle">&nbsp;</strong>&nbsp;Simple, powerfull and intuitive.
     </h1>
-    <h4>Write componentized and modern java applications.</h4>
+    <h4>Lightweight and Modern Container for your Java applications.</h4>
   </div>
 </div>
 {% endblock %}
@@ -30,15 +30,16 @@
         <h4>Core Features</h4>
 
         <ul class="list-features">
-          <li>Easy Bootstrap for your Java application</li>
+          <li>Lightweight, Modern and Intuitive Java Container</li>         
           <li>Simple environment configuration</li>          
           <li>Forget all annoying application mapping, like the legacy of xml</li>
-          <li>Modern and intuitive Java Container</li>         
           <li>Inversion control with direct injection in your class</li>          
           <li>Easy way to create components and resources, uncoupling your architecture</li>
           <li>Qualification and a practical way to change implementation of a component</li>          
+          <li>Simple conventions, for improve your experience</li>
           <li>Commons Configuration based on "Apache Commons Configuration"</li>
-          <li>Simple conventions, for improve your experience</li>          
+          <li>Easy Bootstrap for your Java application</li>
+          <li>Android support</li>         
         </ul>
       </div>
     </div>

@@ -35,7 +35,7 @@ dependencies {
 	</code></pre>
 	
 	
-	</div><
+	</div>
 
 
 </section>

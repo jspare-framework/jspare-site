@@ -26,9 +26,10 @@ date: 2016-07-21 13:40:50
 			<p>TODO Release</p>
 		</header>
 		<ul class="changelog">
-			<li class="change-todo">Workshop area on website.</li>
-			<li class="change-todo">Versioned documentation.</li>
+			<li class="change-todo">Workshop area on website.</li>			
 			<li class="change-todo">Improve unit tests to 99% of coverage.</li>
+			<li class="change-todo">Improve javadoc documentation.</li>
+			<li class="change-todo">Versioned documentation.</li>
 		</ul>
 
 		<header class="section-header">
@@ -37,7 +38,7 @@ date: 2016-07-21 13:40:50
 			<p>Release</p>
 		</header>
 		<ul class="changelog">
-			<li class="change-todo">Release artifcats to m2 release.</li>
+			<li class="change-add">Release artifcats to m2 release.</li>
 			<li class="change-add">Added native Application Context Resource</li>
 			<li class="change-add">Added Injector Strategy to customize inversion of control</li>
 			<li class="change-add">Added Resource injection with @Resource for non components</li>

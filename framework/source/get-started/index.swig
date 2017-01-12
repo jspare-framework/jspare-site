@@ -31,6 +31,8 @@ dependencies {
     compile "org.jspare:jspare-core:2.0.0"
 }
 	</code></pre>
+
+  <p>For Android support use <code>jspare-core-android-support</code> as artifactId.</p>
 	
 	<h4 id="sec-gettingstarted-project">Structuring a project</h4>
 	<p>Example basics of how should be the default structure of your project, later on we will deal with all the conventions.</p>
@@ -85,7 +87,7 @@ dependencies {
               </ul>
             </div>
             
-		<h4>Abuse of components!</h4>
+		<h4>Modularized your applications!</h4>
 		<p>Write your applications using container, surely your application will get more organized and you were unpacking things.</p>
 		<pre class="line-numbers"><code class="language-java">
 package org.jspare.samples.api;

@@ -10,10 +10,10 @@
 
 		<ul class="nav-menu">
 			<li><a class="{% if page.id == 'home' %} active {% endif %}" href="{{ url_for('/') }}">Home</a></li>
-			<li><a class="{% if page.id == 'get-started' %} active {% endif %}" href="{{ url_for('get-started') }}">Get Started</a></li>
+			<!--<li><a class="{% if page.id == 'get-started' %} active {% endif %}" href="{{ url_for('get-started') }}">Get Started</a></li>
 			<li><a class="{% if page.id == 'docs' %} active {% endif %}" href="{{ url_for('docs') }}">Docs</a></li>
 			<li><a class="{% if page.id == 'downloads' %} active {% endif %}" href="{{ url_for('downloads') }}">Downloads</a></li>
-			<li><a class="{% if page.id == 'changelog' %} active {% endif %}" href="{{ url_for('changelog') }}">Changelog</a></li>
+			<li><a class="{% if page.id == 'changelog' %} active {% endif %}" href="{{ url_for('changelog') }}">Changelog</a></li> -->
 			<li><a class="{% if page.id == 'contribute' %} active {% endif %}" href="{{ url_for('contribute') }}">Contribute</a></li>
 			<li><a href="http://jspare.org">JSpare.org</a></li>
 		</ul>
