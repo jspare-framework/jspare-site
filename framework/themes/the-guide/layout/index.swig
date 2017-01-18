@@ -6,7 +6,7 @@
     <h1 class="logo">
       <strong class="title">J<font color="#962B2B">S</font>pare Framework</strong><strong class="subtitle">&nbsp;</strong>&nbsp;Simple, powerfull and intuitive.
     </h1>
-    <h4>Lightweight and Modern Container for your Java applications.</h4>
+    <h4>A lightweight and simple container for your Java applications.</h4>
   </div>
 </div>
 {% endblock %}
@@ -23,7 +23,11 @@
       alt="Fork me on GitHub"
       data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"></a>
 
-    <p class="lead"> The JSpare Framework provide an core environment container for your Java applications. Prepare applications uncoupled and componentized. Using JSpare Container your application will contain several features that can help to define your application.</p>
+    <p class="lead"> The JSpare Framework provides an environment and container out of the box. Use dependency injection providing on demand resources for your Java Applications. We are uncoupled of any other package and lightweight.</p>
+
+    <p>You should ask yourself why to use a different framework for do this? Our answer is the following, we do not want to be compared to the giants, we were made to run out of the box, in applications that do not require JavaEE resources or a complete ecosystem ... to do this, use the others.</p>
+
+    <p><b>But if you need a quick response to a lightweight and independent application, we're a great option!</b></p>
 
     <div class="col-md-8 col-sm-12 col-xs-6">
       <div class="features-content">
@@ -31,15 +35,14 @@
 
         <ul class="list-features">
           <li>Lightweight, Modern and Intuitive Java Container</li>         
-          <li>Simple environment configuration</li>          
-          <li>Forget all annoying application mapping, like the legacy of xml</li>
-          <li>Inversion control with direct injection in your class</li>          
+          <li>We are easy to configure</li>          
+          <li>Forget all annoying applications mapping, like the legacy of xml...</li>
+          <li>Dependency Injection with a simple more not simplist container!</li>          
           <li>Easy way to create components and resources, uncoupling your architecture</li>
           <li>Qualification and a practical way to change implementation of a component</li>          
           <li>Simple conventions, for improve your experience</li>
-          <li>Commons Configuration based on "Apache Commons Configuration"</li>
           <li>Easy Bootstrap for your Java application</li>
-          <li>Android support</li>         
+          <li>Dependency Injection for your Android application</li>         
         </ul>
       </div>
     </div>
