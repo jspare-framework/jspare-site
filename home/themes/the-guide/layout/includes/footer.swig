@@ -12,10 +12,8 @@
     </div>
 
     <div class="col-md-5 col-sm-12 col-xs-12">
-      <ul class="footer-language">        
-        <li><a class="changeLanguage"  href="#" id="en_US"><img src="{{ url_for('images/flagUS.png') }}" /></a></li>
-        <li><a class="" id="pt_BR"><img style="opacity: 0.2; filter: alpha(opacity=20);"  src="{{ url_for('images/flagBrazil.png') }}" /></a></li>
-        <li><a class="" id="es_ES"><img style="opacity: 0.2; filter: alpha(opacity=20);" src="{{ url_for('images/flagES.png') }}" /></a></li> 
+      <ul class="footer-language">
+        <li><a class=""  href="http://www.ej-technologies.com/products/jprofiler/overview.html" id="en_US"><img src="https://www.ej-technologies.com/images/product_banners/jprofiler_large.png" /></a></li>
       </ul>
     </div>
 

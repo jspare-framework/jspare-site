@@ -44,6 +44,7 @@
         <h4>References</h4>
 
         <ul class="list-features">
+          <li><a href="https://github.com/jspare-projects/vertx-jspare">Access GitHub with official documentation</a></li>
           <li><a href="http://vertx.io">Access Vert.x official page</a></li>
         </ul>
       </div>
@@ -61,11 +62,11 @@
         <tbody>
           <tr>
             <td>Stable Version:</td>
-            <td>N/A</td>
+            <td>1.0.0</td>
           </tr>
           <tr>
             <td>Publication Date:</td>
-            <td>N/A</td>
+            <td>02-02-2017</td>
           </tr>
           <tr>
             <td>Repository:</td>
@@ -87,9 +88,9 @@
         </thead>
         <tbody>
           <tr>
-            <td>1.0.0-SNAPSHOT <span class="label label-primary">CURRENT</span></td>
+            <td>1.0.0 <span class="label label-primary">CURRENT</span></td>
             <td>
-              <a href="https://bintray.com/jspare/maven/vertx-jspare">Download</a>
+              <a href="https://github.com/jspare-projects/vertx-jspare">Docs</a> | <a href="http://www.javadoc.io/doc/org.jspare.vertx/vertx-jspare/1.0.0">API</a> | <a href="http://repo1.maven.org/maven2/org/jspare/vertx/vertx-jspare/1.0.0/">Download</a>
             </td>
           </tr>
           

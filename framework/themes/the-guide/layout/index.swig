@@ -59,11 +59,11 @@
         <tbody>
           <tr>
             <td>Stable Version:</td>
-            <td>2.0.0</td>
+            <td>2.0.1</td>
           </tr>
           <tr>
             <td>Publication Date:</td>
-            <td>12-12-2016</td>
+            <td>01-17-2016</td>
           </tr>
           <tr>
             <td>Repository:</td>
@@ -85,9 +85,9 @@
         </thead>
         <tbody>
           <tr>
-            <td>2.0.0 <span class="label label-primary">CURRENT</span></td>
+            <td>2.0.1 <span class="label label-primary">CURRENT</span></td>
             <td>
-              <a href="{{ url_for('docs') }}">Docs</a> | <a href="http://www.javadoc.io/doc/org.jspare/jspare-core/2.0.0">API</a> | <a href="http://repo1.maven.org/maven2/org/jspare/jspare-core/2.0.0/">Download</a>
+              <a href="{{ url_for('docs') }}">Docs</a> | <a href="http://www.javadoc.io/doc/org.jspare/jspare-core/2.0.1">API</a> | <a href="http://repo1.maven.org/maven2/org/jspare/jspare-core/2.0.0/">Download</a>
             </td>
           </tr>
           <tr>
